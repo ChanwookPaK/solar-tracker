@@ -4,4 +4,4 @@
 
 # 제작과정
 ![Alt text](/path/to/solartracker.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+
